@@ -1,4 +1,4 @@
-## Electron.js + React.js + WebAssembly. Calculate fibonacci number for 10. 
+## Electron.js + React.js + WebAssembly. Calculates fibonacci number for 10. 
 
 Install dependencies:
 
